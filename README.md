@@ -1,3 +1,3 @@
 # Browser Overview
 
-![Browser Overview](browser_overview.avif) 
+![Browser Overview](browser_overview.png)
